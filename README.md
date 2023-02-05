@@ -1,4 +1,4 @@
-# Title
+# STATS201 PS1 and Weekly Reflection 3
 
 ## General Information
 
