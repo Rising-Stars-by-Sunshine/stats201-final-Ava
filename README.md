@@ -32,7 +32,7 @@ In PS1 we queried token data from Infura, alchemy, and QuickNode and then we ana
 
 # Code
 - [PS1](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-Ava/blob/16359592479279488b569734370c1f41b866eac9/STATS201-PS1-AvaBaker.ipynb)
-- [Weekly Reflection 3](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-Ava/blob/16359592479279488b569734370c1f41b866eac9/code/Ava_NLP_Blockchain_SoKs.ipynb)
+- [Weekly Reflection 3](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-Ava/blob/15a440ab6effcdcb61285544c5a991dc4efd9588/code/Week3Reflection.ipynb)
 
 # Spotlight
 <img src="https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-Ava/blob/d892aa23413d6eb30a83fbdc530805cc8cbd63b0/spotlight/figures/title_wordcloud.png" height="500" alt="Contribution to Literature"/><br/>
