@@ -19,6 +19,8 @@
 | Spotlight  | https://github.com/Rising-Stars-by-Sunshine/stats201-PS2-Ava/tree/main/spotlight  |
 
 ### Data
+
+#### Meta-Data
 | Type  | Link | Data Files | Data Content |
 | ---- | ---- | ---- | ----- |
 | Data Source  | https://trends.google.com/trends/explore?date=all&q=Entrepreneur  | https://github.com/Rising-Stars-by-Sunshine/stats201-PS2-Ava/tree/main/data/Queried_Data/interestOverTime.csv | A table including the score of searches for "Entrepreneur" and their corresponding Year/Month. |
