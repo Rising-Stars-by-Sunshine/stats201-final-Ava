@@ -12,18 +12,18 @@
 ## Part II: Machine Learning for Prediction
 
 ### Table of Contents
-- [Data](https://github.com/Rising-Stars-by-Sunshine/stats201-PS2-Ava/main/data)
-- [Code](https://github.com/Rising-Stars-by-Sunshine/stats201-PS2-Ava/main/code)
-- [Spotlight](https://github.com/Rising-Stars-by-Sunshine/stats201-PS2-Avamain/spotlight)
+- [Data](https://github.com/Rising-Stars-by-Sunshine/stats201-PS2-Ava/tree/main/data)
+- [Code](https://github.com/Rising-Stars-by-Sunshine/stats201-PS2-Ava/tree/main/code)
+- [Spotlight](https://github.com/Rising-Stars-by-Sunshine/stats201-PS2-Ava/tree/main/spotlight)
 
 ### Data
 - Data Source: https://trends.google.com/trends/explore?date=all&q=Entrepreneur
-- [Queried Data](https://github.com/Rising-Stars-by-Sunshine/stats201-PS2-Ava/main/data/Queried_Data)
-- [Processed Data](https://github.com/Rising-Stars-by-Sunshine/stats201-PS2-Ava/main/data/Processed_Data)
+- [Queried Data](https://github.com/Rising-Stars-by-Sunshine/stats201-PS2-Ava/tree/main/data/Queried_Data)
+- [Processed Data](https://github.com/Rising-Stars-by-Sunshine/stats201-PS2-Ava/tree/main/data/Processed_Data)
 
 ### Code
-- [Process Data](https://github.com/Rising-Stars-by-Sunshine/stats201-PS2-Ava/main/code/Process_Data.ipynb)
-- [Analyze Data](https://github.com/Rising-Stars-by-Sunshine/stats201-PS2-Ava/main/code/Analyze_Data.ipynb)
+- [Process Data](https://github.com/Rising-Stars-by-Sunshine/stats201-PS2-Ava/tree/main/code/Process_Data.ipynb)
+- [Analyze Data](https://github.com/Rising-Stars-by-Sunshine/stats201-PS2-Ava/tree/main/code/Analyze_Data.ipynb)
 
 ### Spotlight
 ![Confusion Matrix](https://github.com/yutongquan/STATS201_Problem_Set_2/blob/main/Spotlight/Confusion%20Matrix_Ridge%20Classfier.png)
