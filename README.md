@@ -14,18 +14,22 @@
 ### Table of Contents
 | Item  | Link |
 | ------------- | ------------- |
-| [Data]  | (https://github.com/Rising-Stars-by-Sunshine/stats201-PS2-Ava/tree/main/data)  |
-| [Code]  | (https://github.com/Rising-Stars-by-Sunshine/stats201-PS2-Ava/tree/main/code)  |
-| [Spotlight]  | (https://github.com/Rising-Stars-by-Sunshine/stats201-PS2-Ava/tree/main/spotlight)  |
+| Data  | https://github.com/Rising-Stars-by-Sunshine/stats201-PS2-Ava/tree/main/data  |
+| Code  | https://github.com/Rising-Stars-by-Sunshine/stats201-PS2-Ava/tree/main/code  |
+| Spotlight  | https://github.com/Rising-Stars-by-Sunshine/stats201-PS2-Ava/tree/main/spotlight  |
 
 ### Data
-- Data Source: https://trends.google.com/trends/explore?date=all&q=Entrepreneur
-- [Queried Data](https://github.com/Rising-Stars-by-Sunshine/stats201-PS2-Ava/tree/main/data/Queried_Data)
-- [Processed Data](https://github.com/Rising-Stars-by-Sunshine/stats201-PS2-Ava/tree/main/data/Processed_Data)
+| Type  | Link | Data Files | Data Content | Data Dictionary |
+| ------------- | ------------- |
+| Data Source  | https://trends.google.com/trends/explore?date=all&q=Entrepreneur  | https://github.com/Rising-Stars-by-Sunshine/stats201-PS2-Ava/tree/main/data/Queried_Data/interestOverTime.csv | A table including the score of searches for "Entrepreneur" and their corresponding Year/Month. | count: "Numbers represent search interest relative to the highest point on the chart for the given region and time. A value of 100 is the peak popularity for the term. A value of 50 means that the term is half as popular. A score of 0 means there was not enough data for this term" (from Google). Date: Year-Month.
+| Queried Data  | https://github.com/Rising-Stars-by-Sunshine/stats201-PS2-Ava/tree/main/data/Queried_Data  | interestOverTime.csv, PS2references.csv | interestOverTime.csv is the Data Source (refer to above row) and PS2references contains the bibliographic information for 21 journal articles, books, and book chapters discussing recent trends in entrepreneurship and post-pandemic spikes in entrepreneurship. | For interestOverTime definitions refer to row above. Item type: A classification of the data source documented (either Journal Article, Book, or Book Chapter). Authors: Contributers to the data source. Title: Title of the journal article, book, or book chapter. Journal: The journal the data source was published in (if applicable). Publication Year: The year the data source was published in. Volume: The volume of the data source if applicable. Pages: The selecetion of pages that the data source comes from if applicable. Date Published: The year and month that the data source was published in. ISBN: THe ISBN number of the data source if applicable. URLs: Links to the data source if applicable. DOI: The DOI of the data source if applicable. Abstract: A summary of the data source.
+| Processed Data  | https://github.com/Rising-Stars-by-Sunshine/stats201-PS2-Ava/tree/main/data/Processed_Data  | Regression_Train.csv, Regression_Test.csv, Classification_Train.csv, Classification_Test.csv | 
 
 ### Code
-- [Process Data](https://github.com/Rising-Stars-by-Sunshine/stats201-PS2-Ava/tree/main/code/Process_Data.ipynb)
-- [Analyze Data](https://github.com/Rising-Stars-by-Sunshine/stats201-PS2-Ava/tree/main/code/Analyze_Data.ipynb)
+| Type  | Link |
+| ------------- | ------------- |
+| Process Data  | https://github.com/Rising-Stars-by-Sunshine/stats201-PS2-Ava/tree/main/code/Process_Data.ipynb  |
+| Analyze Data  | https://github.com/Rising-Stars-by-Sunshine/stats201-PS2-Ava/tree/main/code/Analyze_Data.ipynb  |
 
 ### Spotlight
 ![Confusion Matrix](https://github.com/yutongquan/STATS201_Problem_Set_2/blob/main/Spotlight/Confusion%20Matrix_Ridge%20Classfier.png)
