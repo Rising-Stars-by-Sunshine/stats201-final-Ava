@@ -12,9 +12,11 @@
 ## Part II: Machine Learning for Prediction
 
 ### Table of Contents
-- [Data](https://github.com/Rising-Stars-by-Sunshine/stats201-PS2-Ava/tree/main/data)
-- [Code](https://github.com/Rising-Stars-by-Sunshine/stats201-PS2-Ava/tree/main/code)
-- [Spotlight](https://github.com/Rising-Stars-by-Sunshine/stats201-PS2-Ava/tree/main/spotlight)
+| Item  | Link |
+| ------------- | ------------- |
+| [Data]  | (https://github.com/Rising-Stars-by-Sunshine/stats201-PS2-Ava/tree/main/data)  |
+| [Code]  | (https://github.com/Rising-Stars-by-Sunshine/stats201-PS2-Ava/tree/main/code)  |
+| [Spotlight]  | (https://github.com/Rising-Stars-by-Sunshine/stats201-PS2-Ava/tree/main/spotlight)  |
 
 ### Data
 - Data Source: https://trends.google.com/trends/explore?date=all&q=Entrepreneur
