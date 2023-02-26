@@ -48,6 +48,7 @@
 ### Code
 | Type  | Link |
 | ------------- | ------------- |
+| Query Data  | https://github.com/Rising-Stars-by-Sunshine/stats201-PS2-Ava/tree/main/code/Query_Data.ipynb  |
 | Process Data  | https://github.com/Rising-Stars-by-Sunshine/stats201-PS2-Ava/tree/main/code/Process_Data.ipynb  |
 | Analyze Data  | https://github.com/Rising-Stars-by-Sunshine/stats201-PS2-Ava/tree/main/code/Analyze_Data.ipynb  |
 
