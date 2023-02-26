@@ -53,11 +53,17 @@
 | Analyze Data  | https://github.com/Rising-Stars-by-Sunshine/stats201-PS2-Ava/tree/main/code/Analyze_Data.ipynb  |
 
 ### Spotlight
-![Confusion Matrix](https://github.com/yutongquan/STATS201_Problem_Set_2/blob/main/Spotlight/Confusion%20Matrix_Ridge%20Classfier.png)
+![Random Tree Regression](https://github.com/Rising-Stars-by-Sunshine/stats201-PS2-Ava/tree/main/Spotlight/figures/random_tree_regression.png)
 
-**Figure No.1. The Confusion Matrix for Ridge Classification**
+**Figure No.1. Random Tree Regression**
 
 *Figure No.1. Source: [Google Trends: Entrepreneur](https://trends.google.com/trends/explore?date=all&q=entrepreneur), created by [sklearn.ensemble.RandomForestRegressor](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html)*
+
+![Abstract Word Cloud](https://github.com/Rising-Stars-by-Sunshine/stats201-PS2-Ava/tree/main/Spotlight/figures/wordcloud_abstract.png)
+
+**Figure No.2. Word Cloud of Related Literature Abstracts**
+
+*Figure No.2. Source: [Related Literatures: Entrepreneurship Post Pandemic](https://github.com/Rising-Stars-by-Sunshine/stats201-PS2-Ava/tree/main/data/Queried_Data/PS2references.csv), created by [wordcloud](https://pypi.org/project/wordcloud/)*
 
 Figure No.1 is the confusion matrix of [Ridge Classification](https://scikit-learn.org/stable/modules/linear_model.html#ridge-regression-and-classification) algorithm for Bitcoin ROI prediction. The confusion matrix provides an evaluation of the performance of the classification algorithm we use. In this matrix, the X-axis is the predicted label and the Y-axis is the true label,where 0 indicates a negative ROI and 1 indicates a positive ROI. As it approaches yellow, the number is larger, and as it approaches purple, the number is smaller. The figure shows that our model correctly classifies all 141 Positive ROI cases (True Positive), but misclassifies all 192 negative ROI cases (False Positive). The model accuracy is (TP + TN)/(TP + TN + FP + FN) = 141/333 = 0.42, the recall is TP/(TP + FN) = 141/141 = 1.00, and the precision is TP/(TP + FP) = 141/333 = 0.42 (Formula reference: [Krukrubo 2019](https://pub.towardsai.net/the-confusion-matrix-for-classification-eb3bcf3064c7)).
 
