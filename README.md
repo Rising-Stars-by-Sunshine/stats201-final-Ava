@@ -67,9 +67,39 @@ Figure No.1 is the confusion matrix of [Ridge Classification](https://scikit-lea
 [Google Trends: "Entrepreneur"](https://trends.google.com/trends/explore?date=all&q=Entrepreneur)
 ### Code Source
 [stats201-tutorial-prediction/code](https://github.com/Rising-Stars-by-Sunshine/stats201-tutorial-prediction/tree/main/code)
-### Articles
-[Time Series Prediction Using LSTM Deep Neural Networks](https://www.altumintelligence.com/articles/a/Time-Series-Prediction-Using-LSTM-Deep-Neural-Networks)
 
-[The Confusion Matrix for Classification](https://pub.towardsai.net/the-confusion-matrix-for-classification-eb3bcf3064c7)
 ### Literature
-ADD LITERATURE HERE!
+
+Cardow, Andrew. "The Metaphorical Rise of Entrepreneurship".SSRN Electronic Journal (2010).
+
+Hill, Stephen, Aileen, Ionescu-Somers, Alicia, Coduras, Maribel, Guerrero, Ehud, Menipaz, Fatima, Boutaleb, Przemysław, Zbierowski, Thomas, Schøtt, Sreevas, Sahasranamam, Jeffrey, Shay, and Global, Monitor. Global Entrepreneurship Monitor 2022/2023 Global Report: Adapting to a “New Normal”. 2023.
+
+Elam, Amanda, Karen, Hughes, Maribel, Guerrero, Stephen, Hill, Catharina B, Nawangpalupi, M.Mar, Fuentes-Fuentes, Juan, González, Ana, Fernandez-Laviada, Catalina, Martínez, Alicia, Rubio Bañón, Nihel, Chabrak, Candida, Brush, Ben, Baumer, René, Heavlow, and the, (GERA). Women’s Entrepreneurship 2020/21. Thriving Through Crisis. 2021.
+
+Bosma, Niels, Stephen, Hill, Aileen, Ionescu-Somers, Donna, Kelley, Maribel, Guerrero, Thomas, Schøtt, and the, (GERA). Global Entrepreneurship Monitor. 2020/2021 Global Report. 2021.
+
+Behr, Rachael, and Virgil, Storr. "Understanding pandemic entrepreneurship as a unique form of crisis entrepreneurship".Journal of Entrepreneurship and Public Policy 11 (2022).
+
+Sreenivasan, Aswathy, and Ma, Suresh. "Twenty years of entrepreneurship education: a bibliometric analysis".Entrepreneurship Education (2023): 1-24.
+
+Elam, Amanda, Karen, Hughes, Maribel, Guerrero, Stephen, Hill, Catharina B, Nawangpalupi, M.Mar, Fuentes-Fuentes, Juan, González, Ana, Fernandez-Laviada, Catalina, Martínez, Alicia, Rubio Bañón, Nihel, Chabrak, Candida, Brush, Ben, Baumer, René, Heavlow, and the, (GERA). Women’s Entrepreneurship 2020/21. Thriving Through Crisis. 2021.
+
+Verma, Amit. Entrepreneurship Amidst Pandemic COVID 19. 2022.
+
+Monitor, Global, Amanda, Elam, Benjamin, Baumer, Thomas, Schøtt, Mahsa, Samsami, A., Dwivedi, Baldegger, Rico, Maribel, Guerrero, Fatima, Boutaleb, and Karen, Hughes. GEM 2021/22 Women’s Entrepreneurship Report: From Crisis to Opportunity. 2022.
+
+Yerzhanova, A.M., and L.Zh, Ashirbekova. "THE ROLE OF SOCIAL ENTREPRENEURSHIP IN A PANDEMIC".Statistika, učet i audit 87 (2022): 37-48.
+
+Pereira, Ygo, Priscilla, Sousa, Adams, Alves, Elis, Regina, and Washington, Monte. "Perception of entrepreneurship as alternative to facing the post-pandemic crisis".Revista de Gestão e Secretariado 14 (2023): 893-902.
+
+Petersen, R., L., William, S., Shatner, and A., Ogleby. "Scalable Green Entrepreneurship in the Post- COVID-19 Pandemic World: The Australasian Case".Asian Journal of Economics, Business and Accounting (2021): 14-23.
+
+Liñán, Francisco, and Inmaculada, Jaén. "The Covid-19 pandemic and entrepreneurship: some reflections".International Journal of Emerging Markets 17 (2022): 1165-1174.
+
+Maldonado Castro, Jenny, Angel, Castro, Daniel, Gavilánez, and María, Guzmán Macías. "Post Pandemic Entrepreneurship Surge: Impact on Economic Growth".Centro Sur 6 (2022).
+
+Tripalupi, Ramadhani, and Prameshwara, Anggahegari. "Strengthening Entrepreneurship: Sharia Empowerment for MSMEs Amidst the Covid-19 Pandemic".International Journal of Entrepreneurship and Sustainability Studies 2 (2022): 73-89.
+
+Bapat, Gautam, Ravikumar, Chitnis, and Srinivas, Pasumarti. "The state of "Innovation" and "Entrepreneurship" in India -A Post Pandemic Bibliometric Analysis". (2022): 6820-6826.
+
+Kang, Pengsheng, Lin, Guo, Zhou, Lu, and Lili, Zhu. "Evaluation of the early-stage entrepreneurship activity in the United States during the COVID-19 pandemic".Frontiers in Public Health 10 (2022).
