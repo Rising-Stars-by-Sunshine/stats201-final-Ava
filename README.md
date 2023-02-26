@@ -4,7 +4,7 @@
 - **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
 - **Disclaimer**: Submissions to the Problem Set 2 for STATS201 Introduction to Machine Learning for Social Science, 2023 Spring Term (Seven Week - First) instructed by Prof. Luyao Zhang at Duke Kunshan University.
 - **Acknowledgments**: I would like to thank my professor, Luyao Zhang, for her patience and wisdom in guiding me through this assignment.
-- **Project Summary**: Using machine learning methods to complete time series forecasting on google search trend data. Searches for the term "Entrepreneur" spiked twice since 2004, both after major economic disasters. This led me to be interested in analyzing interest in entrepreneurship and how this might spike during times of financial crisis.
+- **Project Summary**: Using machine learning methods to complete time series forecasting on google search trend data. Searches for the term "Entrepreneur" spiked twice since 2004, both after major economic disasters. This led me to be interested in analyzing interest in entrepreneurship and how this might spike during times of financial crisis. This research was supported by reading and analyzing related literature on changing concepts of and interest in entrepreneurship after financial crisis, specifically the COVID-19 pandemic.
 
 ## Part I: Machine Learning for Explanation
 [Github Repository: stats201-PS2-Ava](https://github.com/Rising-Stars-by-Sunshine/stats201-PS2-Ava)
