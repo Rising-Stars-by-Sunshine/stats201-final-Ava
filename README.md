@@ -53,13 +53,13 @@
 | Analyze Data  | https://github.com/Rising-Stars-by-Sunshine/stats201-PS2-Ava/tree/main/code/Analyze_Data.ipynb  |
 
 ### Spotlight
-(https://github.com/Rising-Stars-by-Sunshine/stats201-PS2-Ava/tree/main/Spotlight/figures/random_tree_regression.png)
+![Random Tree Regession](https://github.com/Rising-Stars-by-Sunshine/stats201-PS2-Ava/tree/main/spotlight/figures/random_tree_regression.png)
 
 **Figure No.1. Random Tree Regression**
 
 *Figure No.1. Source: [Google Trends: Entrepreneur](https://trends.google.com/trends/explore?date=all&q=entrepreneur), created by [sklearn.ensemble.RandomForestRegressor](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html)*
 
-![Abstract Word Cloud](https://github.com/Rising-Stars-by-Sunshine/stats201-PS2-Ava/tree/main/Spotlight/figures/wordcloud_abstract.png)
+![Abstract Word Cloud](https://github.com/Rising-Stars-by-Sunshine/stats201-PS2-Ava/tree/main/spotlight/figures/wordcloud_abstract.png)
 
 **Figure No.2. Word Cloud of Related Literature Abstracts**
 
