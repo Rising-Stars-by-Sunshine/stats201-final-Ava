@@ -53,7 +53,7 @@
 | Analyze Data  | https://github.com/Rising-Stars-by-Sunshine/stats201-PS2-Ava/tree/main/code/Analyze_Data.ipynb  |
 
 ### Spotlight
-![Random Tree Regession](https://github.com/Rising-Stars-by-Sunshine/stats201-PS2-Ava/tree/main/spotlight/figures/random_forest_regression.png)
+![image](https://user-images.githubusercontent.com/42778678/221403886-8c08dc39-887c-4555-b553-547605a8ae71.png)
 
 **Figure No.1. Random Tree Regression**
 
