@@ -65,7 +65,7 @@
 
 *Figure No.2. Source: [Related Literatures: Entrepreneurship Post Pandemic](https://github.com/Rising-Stars-by-Sunshine/stats201-PS2-Ava/tree/main/data/Queried_Data/PS2references.csv), created by [wordcloud](https://pypi.org/project/wordcloud/)*
 
-Figure No.1 is the Random Tree Regression of the google trend search data for "Entrepreneur." This is a supervised learning alogrithm that uses an ensemble learning method to determine the strength and character of the relationship between two variables. The second figure is a word cloud of frequently used terms in the abstracts of related literatures.
+Figure No.1 is the Random Tree Regression of the google trend search data for "Entrepreneur." This is a supervised learning alogrithm that uses an ensemble learning method to determine the strength and character of the relationship between two variables. The second figure is a word cloud of frequently used terms in the abstracts of related literatures. As you can see, along with "entrepreneur" and "entrepreneurship," terms such as "crisis," "pandemic," and "covid" were also common, showing the relationship between the two.
 
 ## References
 
