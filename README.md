@@ -78,7 +78,7 @@ Figure No.3 is the Random Tree Regression of the google trend search data for "E
 
 **Figure No.4 Causal Inference**
 
-![Causal Inference](https://github.com/Rising-Stars-by-Sunshine/stats201-final-Ava/blob/ec4747b9848cf6b8278b7d83388fde642f235c5d/spotlight/figures/prediction_figure.png)
+<img src="https://github.com/Rising-Stars-by-Sunshine/stats201-final-Ava/blob/ec4747b9848cf6b8278b7d83388fde642f235c5d/spotlight/figures/prediction_figure.png" width="500">
 
 *Figure No.4 created by [Whimsical](https://whimsical.com/)*
 
