@@ -72,7 +72,7 @@ Figure No.1 is the Random Tree Regression of the google trend search data for "E
 ### Code Source
 [stats201-tutorial-prediction/code](https://github.com/Rising-Stars-by-Sunshine/stats201-tutorial-prediction/tree/main/code)
 
-### Literature
+### Articles
 
 Cardow, Andrew. "The Metaphorical Rise of Entrepreneurship".SSRN Electronic Journal (2010).
 
@@ -107,3 +107,11 @@ Tripalupi, Ramadhani, and Prameshwara, Anggahegari. "Strengthening Entrepreneurs
 Bapat, Gautam, Ravikumar, Chitnis, and Srinivas, Pasumarti. "The state of "Innovation" and "Entrepreneurship" in India -A Post Pandemic Bibliometric Analysis". (2022): 6820-6826.
 
 Kang, Pengsheng, Lin, Guo, Zhou, Lu, and Lili, Zhu. "Evaluation of the early-stage entrepreneurship activity in the United States during the COVID-19 pandemic".Frontiers in Public Health 10 (2022).
+
+### Literature
+
+“Regression Discontinuity | BetterEvaluation.” n.d. Www.betterevaluation.org. Accessed February 26, 2023. https://www.betterevaluation.org/methods-approaches/methods/regression-discontinuity.
+
+“The Great Recession and the Jobs Crisis.” 2011. https://www.un.org/esa/socdev/rwss/docs/2011/chapter2.pdf.
+
+United Nations. 2011. “The Global Social Crisis.” New York: United Nations. https://www.un.org/esa/socdev/rwss/docs/2011/rwss2011.pdf.
