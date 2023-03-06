@@ -56,7 +56,7 @@
 
 ![Project Poster](https://github.com/Rising-Stars-by-Sunshine/stats201-final-Ava/blob/363afe427bd01c754e2056549239a11cde4116d2/spotlight/figures/poster.jpg)
 
-*Figure No.1 Source: Created by [Google Slides](https://docs.google.com/presentation/u/0/)*
+*Figure No.1 created by [Google Slides](https://docs.google.com/presentation/u/0/)*
 
 This project poster describes the different facets of the study step by step and discusses the results and of the study. It presents several figures related to the study and provides a brief and concise description of what the study is on.
 
@@ -76,11 +76,20 @@ The second figure is a word cloud of frequently used terms in the abstracts of r
 
 Figure No.3 is the Random Tree Regression of the google trend search data for "Entrepreneur." This is a supervised learning alogrithm that uses an ensemble learning method to determine the strength and character of the relationship between two variables.
 
+**Figure No.4 Causal Inference**
+
+![Causal Inference](https://github.com/Rising-Stars-by-Sunshine/stats201-final-Ava/blob/ec4747b9848cf6b8278b7d83388fde642f235c5d/spotlight/figures/prediction_figure.png)
+
+*Figure No.4 created by [Whimsical](https://whimsical.com/)*
+
+It is predicted that the causal inference algorithm will reveal a disparity in the search volume for "entrepreneur" before and after financial crises, mainly the 2008 stock market crash and the COVID-19 pandemic.
+
 ## More About the Author
 
 <img src="https://user-images.githubusercontent.com/42778678/215335060-e59274ff-82d3-4a29-8a04-ffc320dcf81b.png" width="300">
 
-Ava Baker is a Computation and Design major with an emphasis on Computer Science at Duke Kunshan University. She will graduate with the class of 2025 and is currently traveling Europe while attending her studies online, although she completed her first year at Duke University and attended a semester abroad in Barcelona, Spain in the fall semester of her sophomore year. Ava was born in raised in the Bay Area, California and has been set on majoring in computer science since childhood. She spent the summer before college assisting in the creation of a a non-profit organization where she distrubuted free portable chargers and cell phones to the homeless, provided them with tech help, and assisted in setting up a free weekly computer lab. Ava has also worked several jobs including camp counselor, boba-barista, Chief Operator at a startup that provided labor for concession booths, and most recently as a summer intern in the Technology Services and Solutions department of Santa Clara County (Califonria). Ava is highly interested in software engineering and design, and is still exploring various relevant fields. Her greatest and most recent programming experience lies with Java, but she also has worked with HTML, Python, and C#. She has also taken coursework on the subjects of AI, machine learning, and quantum computing.
+  Ava Baker is a Computation and Design major with an emphasis on Computer Science at Duke Kunshan University. She will graduate with the class of 2025 and is currently traveling Europe while attending her studies online, although she completed her first year at Duke University and attended a semester abroad in Barcelona, Spain in the fall semester of her sophomore year. Ava was born in raised in the Bay Area, California and has been set on majoring in computer science since childhood. She spent the summer before college assisting in the creation of a a non-profit organization where she distrubuted free portable chargers and cell phones to the homeless, provided them with tech help, and assisted in setting up a free weekly computer lab. Ava has also worked several jobs including camp counselor, boba-barista, Chief Operator at a startup that provided labor for concession booths, and most recently as a summer intern in the Technology Services and Solutions department of Santa Clara County (Califonria). Ava is highly interested in software engineering and design, and is still exploring various relevant fields. Her greatest and most recent programming experience lies with Java, but she also has worked with HTML, Python, and C#. She has also taken coursework on the subjects of AI, machine learning, and quantum computing.
+  In this course I have seen firsthand how machine learning can help tackle previously mis or mal-understood issues. By applying various algorithms to economic, societal, or other problems, we can use data to better understand the problem at hand, both by revealing its root and sometimes even potential solutions. Having the knowledge to do interdisciplinary work allows the researcher to not only have the skills to do such work but also the background knowledge in the subect that the research question you're posing lies in, to then diagnose and analyze the data you've processed. This can help you to move forward confidently and with solid evidence of what a promising solution might be. Learning some of these skills has not only piqued my interest in machine learning but also opened my eyes to how machine learning could be used to solve so many of the world's problemes, which I one day hope to participate in finding solutions to. Particularly, I'm really interested in education and would love to help make computer science courses accessible to people of all ages and demographics.
 
 ## References
 
