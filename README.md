@@ -7,25 +7,27 @@
 - **Project Summary**: Financial crises tend to have effects on unexpected areas of life, and force people to find new ways to survive and earn money. Particularly, during the COVID-19 pandemic, certain industries were nearly destroyed while others found themselves thriving. New needs were created and old values tossed out as people’s priorities and abilities changed. In the stock market crash of 2008, however, nearly all industries took a hit and in high income countries around 14 million people lost their jobs, with half of that occurring in 2009 alone (United Nations 2011, 28). Furthermore, the quality of employment deteriorated worldwide (United Nations 2011, 27). During both of these times of uncertainty, a spike was observed in interest in entrepreneurship and new trends emerged within the industry. By applying causal inference to search data from Google Trends on the term “entrepreneur,” this study aims to identify the relationship between financial crises and interest in entrepreneurship. By understanding the link between financial crisis and entrepreneurship, preperations can be better made to mitigate the economic after affects of financial disasters.
 
 ## Part I: Machine Learning for Explanation
-[Github Repository: stats201-PS2-Ava](https://github.com/Rising-Stars-by-Sunshine/stats201-PS2-Ava)
+[Github Repository: stats201-final-Ava](https://github.com/Rising-Stars-by-Sunshine/stats201-final-Ava)
 
 ## Part II: Machine Learning for Prediction
 
 ### Table of Contents
 | Item  | Link |
 | ------------- | ------------- |
-| Data  | https://github.com/Rising-Stars-by-Sunshine/stats201-PS2-Ava/tree/main/data  |
-| Code  | https://github.com/Rising-Stars-by-Sunshine/stats201-PS2-Ava/tree/main/code  |
-| Spotlight  | https://github.com/Rising-Stars-by-Sunshine/stats201-PS2-Ava/tree/main/spotlight  |
+| Data  | https://github.com/Rising-Stars-by-Sunshine/stats201-final-Ava/tree/main/data  |
+| Code  | https://github.com/Rising-Stars-by-Sunshine/stats201-final-Ava/tree/main/code  |
+| Spotlight  | https://github.com/Rising-Stars-by-Sunshine/stats201-final-Ava/tree/main/spotlight  |
+| More About the Author  |   |
+| References  |   |
 
 ### Data
 
 #### Meta-Data
 | Type  | Link | Data Files | Data Content |
 | ---- | ---- | ---- | ----- |
-| Data Source  | https://trends.google.com/trends/explore?date=all&q=Entrepreneur  | https://github.com/Rising-Stars-by-Sunshine/stats201-PS2-Ava/tree/main/data/Queried_Data/interestOverTime.csv | A table including the score of searches for "Entrepreneur" and their corresponding Year/Month. |
-| Queried Data  | https://github.com/Rising-Stars-by-Sunshine/stats201-PS2-Ava/tree/main/data/Queried_Data  | interestOverTime.csv, PS2references.csv | interestOverTime.csv is the Data Source (refer to above row) and PS2references contains the bibliographic information for 21 journal articles, books, and book chapters discussing recent trends in entrepreneurship and post-pandemic spikes in entrepreneurship. |
-| Processed Data  | https://github.com/Rising-Stars-by-Sunshine/stats201-PS2-Ava/tree/main/data/Processed_Data  | Regression_Train.csv, Regression_Test.csv, Classification_Train.csv, Classification_Test.csv | 
+| Data Source  | https://trends.google.com/trends/explore?date=all&q=Entrepreneur  | https://github.com/Rising-Stars-by-Sunshine/stats201-final-Ava/tree/main/data/Queried_Data/interestOverTime.csv | A table including the score of searches for "Entrepreneur" and their corresponding Year/Month. |
+| Queried Data  | https://github.com/Rising-Stars-by-Sunshine/stats201-final-Ava/tree/main/data/Queried_Data  | interestOverTime.csv, PS2references.csv | interestOverTime.csv is the Data Source (refer to above row) and PS2references contains the bibliographic information for 21 journal articles, books, and book chapters discussing recent trends in entrepreneurship and post-pandemic spikes in entrepreneurship. |
+| Processed Data  | https://github.com/Rising-Stars-by-Sunshine/stats201-final-Ava/tree/main/data/Processed_Data  | Regression_Train.csv, Regression_Test.csv, Classification_Train.csv, Classification_Test.csv | 
 
 #### Data Dictionary
 | Term  | Definition |
@@ -48,9 +50,9 @@
 ### Code
 | Type  | Link |
 | ------------- | ------------- |
-| Query Data  | https://github.com/Rising-Stars-by-Sunshine/stats201-PS2-Ava/tree/main/code/Query_Data.ipynb  |
-| Process Data  | https://github.com/Rising-Stars-by-Sunshine/stats201-PS2-Ava/tree/main/code/Process_Data.ipynb  |
-| Analyze Data  | https://github.com/Rising-Stars-by-Sunshine/stats201-PS2-Ava/tree/main/code/Analyze_Data.ipynb  |
+| Query Data  | https://github.com/Rising-Stars-by-Sunshine/stats201-final-Ava/tree/main/code/Query_Data.ipynb  |
+| Process Data  | https://github.com/Rising-Stars-by-Sunshine/stats201-final-Ava/tree/main/code/Process_Data.ipynb  |
+| Analyze Data  | https://github.com/Rising-Stars-by-Sunshine/stats201-final-Ava/tree/main/code/Analyze_Data.ipynb  |
 
 ### Spotlight
 ![Random Forest Regression](https://user-images.githubusercontent.com/42778678/221403886-8c08dc39-887c-4555-b553-547605a8ae71.png)
@@ -63,7 +65,7 @@
 
 **Figure No.2. Word Cloud of Related Literature Abstracts**
 
-*Figure No.2. Source: [Related Literatures: Entrepreneurship Post Pandemic](https://github.com/Rising-Stars-by-Sunshine/stats201-PS2-Ava/tree/main/data/Queried_Data/PS2references.csv), created by [wordcloud](https://pypi.org/project/wordcloud/)*
+*Figure No.2. Source: [Related Literatures: Entrepreneurship Post Pandemic](https://github.com/Rising-Stars-by-Sunshine/stats201-final-Ava/tree/main/data/Queried_Data/PS2references.csv), created by [wordcloud](https://pypi.org/project/wordcloud/)*
 
 Figure No.1 is the Random Tree Regression of the google trend search data for "Entrepreneur." This is a supervised learning alogrithm that uses an ensemble learning method to determine the strength and character of the relationship between two variables. The second figure is a word cloud of frequently used terms in the abstracts of related literatures. As you can see, along with "entrepreneur" and "entrepreneurship," terms such as "crisis," "pandemic," and "covid" were also common, showing the relationship between the two.
 
