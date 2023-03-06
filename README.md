@@ -67,7 +67,7 @@ Figure No.1 is the Random Tree Regression of the google trend search data for "E
 
 ## More About the Author
 
-<img src="https://user-images.githubusercontent.com/42778678/215335060-e59274ff-82d3-4a29-8a04-ffc320dcf81b.png" width="100">
+<img src="https://user-images.githubusercontent.com/42778678/215335060-e59274ff-82d3-4a29-8a04-ffc320dcf81b.png" width="300">
 
 Ava Baker is a Computation and Design major with an emphasis on Computer Science at Duke Kunshan University. She will graduate with the class of 2025 and is currently traveling Europe while attending her studies online, although she completed her first year at Duke University and attended a semester abroad in Barcelona, Spain in the fall semester of her sophomore year. Ava was born in raised in the Bay Area, California and has been set on majoring in computer science since childhood. She spent the summer before college assisting in the creation of a a non-profit organization where she distrubuted free portable chargers and cell phones to the homeless, provided them with tech help, and assisted in setting up a free weekly computer lab. Ava has also worked several jobs including camp counselor, boba-barista, Chief Operator at a startup that provided labor for concession booths, and most recently as a summer intern in the Technology Services and Solutions department of Santa Clara County (Califonria). Ava is highly interested in software engineering and design, and is still exploring various relevant fields. Her greatest and most recent programming experience lies with Java, but she also has worked with HTML, Python, and C#. She has also taken coursework on the subjects of AI, machine learning, and quantum computing.
 
