@@ -51,11 +51,14 @@
 | Machine Learning for Explanation  | https://github.com/Rising-Stars-by-Sunshine/stats201-final-Ava/tree/main/code/MachineLearningforExplanation.ipynb  |
 
 ### Spotlight
-![Random Forest Regression](https://user-images.githubusercontent.com/42778678/221403886-8c08dc39-887c-4555-b553-547605a8ae71.png)
 
 **Figure No.1 Project Poster**
 
-*Figure No.1 Source: [Google Trends: Entrepreneur](https://trends.google.com/trends/explore?date=all&q=entrepreneur), created by [sklearn.ensemble.RandomForestRegressor](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html)*
+![Project Poster](https://github.com/Rising-Stars-by-Sunshine/stats201-final-Ava/blob/363afe427bd01c754e2056549239a11cde4116d2/spotlight/figures/poster.jpg)
+
+*Figure No.1 Source: Created by [Google Slides](https://docs.google.com/presentation/u/0/)*
+
+This project poster describes the different facets of the study step by step and discusses the results and of the study. It presents several figures related to the study and provides a brief and concise description of what the study is on.
 
 **Figure No.2 Word Cloud of Related Literature Abstracts**
 
@@ -63,11 +66,15 @@
 
 *Figure No.2 Source: [Related Literatures: Entrepreneurship Post Pandemic](https://github.com/Rising-Stars-by-Sunshine/stats201-final-Ava/tree/main/data/Queried_Data/references.csv), created by [wordcloud](https://pypi.org/project/wordcloud/)*
 
+The second figure is a word cloud of frequently used terms in the abstracts of related literatures. As you can see, along with "entrepreneur" and "entrepreneurship," terms such as "crisis," "pandemic," and "covid" were also common, showing the relationship between the two.
+
 **Figure No.3 Random Tree Regression**
+
+![Random Forest Regression](https://user-images.githubusercontent.com/42778678/221403886-8c08dc39-887c-4555-b553-547605a8ae71.png)
 
 *Figure No.3 Source: [Google Trends: Entrepreneur](https://trends.google.com/trends/explore?date=all&q=entrepreneur), created by [sklearn.ensemble.RandomForestRegressor](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html)*
 
-Figure No.3 is the Random Tree Regression of the google trend search data for "Entrepreneur." This is a supervised learning alogrithm that uses an ensemble learning method to determine the strength and character of the relationship between two variables. The second figure is a word cloud of frequently used terms in the abstracts of related literatures. As you can see, along with "entrepreneur" and "entrepreneurship," terms such as "crisis," "pandemic," and "covid" were also common, showing the relationship between the two.
+Figure No.3 is the Random Tree Regression of the google trend search data for "Entrepreneur." This is a supervised learning alogrithm that uses an ensemble learning method to determine the strength and character of the relationship between two variables.
 
 ## More About the Author
 
