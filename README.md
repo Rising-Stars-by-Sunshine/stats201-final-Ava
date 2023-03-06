@@ -57,11 +57,11 @@
 
 *Figure No.1. Source: [Google Trends: Entrepreneur](https://trends.google.com/trends/explore?date=all&q=entrepreneur), created by [sklearn.ensemble.RandomForestRegressor](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html)*
 
-![Abstract Wordcloud](https://user-images.githubusercontent.com/42778678/221403919-eca175e9-9ff3-4cbe-8816-680e640dd4e4.png)
+![Abstract Wordcloud](https://user-images.githubusercontent.com/42778678/221403919-eca175e9-9ff3-4cbe-8816-680e640dd4e4.png | width="500")
 
 **Figure No.2. Word Cloud of Related Literature Abstracts**
 
-*Figure No.2. Source: [Related Literatures: Entrepreneurship Post Pandemic](https://github.com/Rising-Stars-by-Sunshine/stats201-final-Ava/tree/main/data/Queried_Data/references.csv | width="500"), created by [wordcloud](https://pypi.org/project/wordcloud/)*
+*Figure No.2. Source: [Related Literatures: Entrepreneurship Post Pandemic](https://github.com/Rising-Stars-by-Sunshine/stats201-final-Ava/tree/main/data/Queried_Data/references.csv), created by [wordcloud](https://pypi.org/project/wordcloud/)*
 
 Figure No.1 is the Random Tree Regression of the google trend search data for "Entrepreneur." This is a supervised learning alogrithm that uses an ensemble learning method to determine the strength and character of the relationship between two variables. The second figure is a word cloud of frequently used terms in the abstracts of related literatures. As you can see, along with "entrepreneur" and "entrepreneurship," terms such as "crisis," "pandemic," and "covid" were also common, showing the relationship between the two.
 
