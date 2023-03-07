@@ -84,6 +84,14 @@ Figure No.3 is the Random Tree Regression of the google trend search data for "E
 
 It is predicted that the causal inference algorithm will reveal a disparity in the search volume for "entrepreneur" before and after financial crises, mainly the 2008 stock market crash and the COVID-19 pandemic.
 
+**Figure No.5 Annual % of World GDP Growth**
+
+<iframe src="https://data.worldbank.org/share/widget?end=2021&indicators=NY.GDP.MKTP.KD.ZG&name_desc=false&start=2004" width='450' height='300' frameBorder='0' scrolling="no" ></iframe>
+
+**Figure No.6 Monthly Google Search Volume for "Entrepreneur"**
+
+<script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/3261_RC06/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"entrepreneur","geo":"","time":"2004-01-01 2023-03-07"}],"category":0,"property":""}, {"exploreQuery":"date=all&q=entrepreneur","guestPath":"https://trends.google.com:443/trends/embed/"}); </script>
+
 ## More About the Author
 
 <img src="https://user-images.githubusercontent.com/42778678/215335060-e59274ff-82d3-4a29-8a04-ffc320dcf81b.png" width="300">
