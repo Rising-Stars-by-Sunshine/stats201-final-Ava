@@ -88,6 +88,7 @@ It is predicted that the causal inference algorithm will reveal a disparity in t
 
 <iframe src="https://data.worldbank.org/share/widget?end=2021&indicators=NY.GDP.MKTP.KD.ZG&name_desc=false&start=2004" width='450' height='300' frameBorder='0' scrolling="no" ></iframe>
 
+
 **Figure No.6 Monthly Google Search Volume for "Entrepreneur"**
 
 <script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/3261_RC06/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"entrepreneur","geo":"","time":"2004-01-01 2023-03-07"}],"category":0,"property":""}, {"exploreQuery":"date=all&q=entrepreneur","guestPath":"https://trends.google.com:443/trends/embed/"}); </script>
