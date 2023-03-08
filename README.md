@@ -7,6 +7,7 @@
 - **Project Summary**: Financial crises tend to have effects on unexpected areas of life, and force people to find new ways to survive and earn money. Particularly, during the COVID-19 pandemic, certain industries were nearly destroyed while others found themselves thriving. New needs were created and old values tossed out as people’s priorities and abilities changed. In the stock market crash of 2008, however, nearly all industries took a hit and in high income countries around 14 million people lost their jobs, with half of that occurring in 2009 alone (United Nations 2011, 28). Furthermore, the quality of employment deteriorated worldwide (United Nations 2011, 27). During both of these times of uncertainty, a spike was observed in interest in entrepreneurship and new trends emerged within the industry. By applying causal inference to search data from Google Trends on the term “entrepreneur,” this study has identified a relationship between financial crises and interest in entrepreneurship. By understanding the link between financial crisis and entrepreneurship, preperations can be better made to mitigate the economic after affects of financial disasters.
 
 ### Table of Contents
+
 | Item  | Link |
 | ------------- | ------------- |
 | Data  | https://github.com/Rising-Stars-by-Sunshine/stats201-final-Ava/tree/main/data  |
@@ -18,6 +19,7 @@
 ### Data
 
 #### Meta-Data
+
 | Type  | Link | Data Files | Data Content |
 | ---- | ---- | ---- | ----- |
 | Data Source  | https://trends.google.com/trends/explore?date=all&q=Entrepreneur  | https://github.com/Rising-Stars-by-Sunshine/stats201-final-Ava/tree/main/data/Queried_Data/interestOverTime.csv | A table including the score of searches for "Entrepreneur" and their corresponding Year/Month. |
@@ -25,6 +27,7 @@
 | Processed Data  | https://github.com/Rising-Stars-by-Sunshine/stats201-final-Ava/tree/main/data/Processed_Data  | Regression_Train.csv, Regression_Test.csv, Classification_Train.csv, Classification_Test.csv | 
 
 #### Data Dictionary
+
 | Term  | Definition |
 | ------------- | ------------- |
 | count | "Numbers represent search interest relative to the highest point on the chart for the given region and time. A value of 100 is the peak popularity for the term. A value of 50 means that the term is half as popular. A score of 0 means there was not enough data for this term" (from Google).  |
@@ -43,6 +46,7 @@
 | Abstract  | A summary of the data source.  |
 
 ### Code
+
 | Type  | Link |
 | ------------- | ------------- |
 | Query Data  | https://github.com/Rising-Stars-by-Sunshine/stats201-final-Ava/tree/main/code/Query_Data.ipynb  |
