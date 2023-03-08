@@ -59,7 +59,7 @@
 
 **Figure No.1 Project Poster**
 
-![Project Poster](https://github.com/Rising-Stars-by-Sunshine/stats201-final-Ava/blob/363afe427bd01c754e2056549239a11cde4116d2/spotlight/figures/poster.jpg)
+<img src="https://github.com/Rising-Stars-by-Sunshine/stats201-final-Ava/blob/363afe427bd01c754e2056549239a11cde4116d2/spotlight/figures/poster.jpg>
 
 *Figure No.1 created by [Google Slides](https://docs.google.com/presentation/u/0/)*
 
@@ -75,7 +75,7 @@ The second figure is a word cloud of frequently used terms in the abstracts of r
 
 **Figure No.3 Random Tree Regression**
 
-![Random Forest Regression](https://user-images.githubusercontent.com/42778678/221403886-8c08dc39-887c-4555-b553-547605a8ae71.png)
+<img src="https://user-images.githubusercontent.com/42778678/221403886-8c08dc39-887c-4555-b553-547605a8ae71.png">
 
 *Figure No.3 Source: [Google Trends: Entrepreneur](https://trends.google.com/trends/explore?date=all&q=entrepreneur), created by [sklearn.ensemble.RandomForestRegressor](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html)*
 
