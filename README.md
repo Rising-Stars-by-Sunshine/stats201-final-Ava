@@ -4,7 +4,7 @@
 - **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
 - **Disclaimer**: Submissions to the Problem Set 2 for [STATS201 Introduction to Machine Learning for Social Science, 2023 Spring Term (Seven Week - First)](https://ms.pubpub.org/) instructed by Prof. Luyao Zhang at Duke Kunshan University.
 - **Acknowledgments**: I would like to thank my professor, Luyao Zhang, for her patience and wisdom in guiding me through this assignment. I would also like to thank my classmate, Ace Asim, for giving me feedback on my poster and project.
-- **Project Summary**: Financial crises tend to have effects on unexpected areas of life, and force people to find new ways to survive and earn money. Particularly, during the COVID-19 pandemic, certain industries were nearly destroyed while others found themselves thriving. New needs were created and old values tossed out as people’s priorities and abilities changed. In the stock market crash of 2008, however, nearly all industries took a hit and in high income countries around 14 million people lost their jobs, with half of that occurring in 2009 alone (United Nations 2011, 28). Furthermore, the quality of employment deteriorated worldwide (United Nations 2011, 27). During both of these times of uncertainty, a spike was observed in interest in entrepreneurship and new trends emerged within the industry. By applying causal inference to search data from Google Trends on the term “entrepreneur,” this study aims to identify the relationship between financial crises and interest in entrepreneurship. By understanding the link between financial crisis and entrepreneurship, preperations can be better made to mitigate the economic after affects of financial disasters.
+- **Project Summary**: Financial crises tend to have effects on unexpected areas of life, and force people to find new ways to survive and earn money. Particularly, during the COVID-19 pandemic, certain industries were nearly destroyed while others found themselves thriving. New needs were created and old values tossed out as people’s priorities and abilities changed. In the stock market crash of 2008, however, nearly all industries took a hit and in high income countries around 14 million people lost their jobs, with half of that occurring in 2009 alone (United Nations 2011, 28). Furthermore, the quality of employment deteriorated worldwide (United Nations 2011, 27). During both of these times of uncertainty, a spike was observed in interest in entrepreneurship and new trends emerged within the industry. By applying causal inference to search data from Google Trends on the term “entrepreneur,” this study has identified a relationship between financial crises and interest in entrepreneurship. By understanding the link between financial crisis and entrepreneurship, preperations can be better made to mitigate the economic after affects of financial disasters.
 
 ### Table of Contents
 | Item  | Link |
@@ -59,7 +59,7 @@
 
 *Figure No.1 created by [Google Slides](https://docs.google.com/presentation/u/0/)*
 
-This project poster describes the different facets of the study step by step and discusses the results and of the study. It presents several figures related to the study and provides a brief and concise description of what the study is on.
+This project poster describes the different facets of the study step by step and discusses the results and of the study. It presents several figures related to the study and provides a brief and concise description of what the study is on. It elaborates on the background and the intellectual merits of the study and discusses the methodology in depth.
 
 **Figure No.2 Word Cloud of Related Literature Abstracts**
 
@@ -75,7 +75,7 @@ The second figure is a word cloud of frequently used terms in the abstracts of r
 
 *Figure No.3 Source: [Google Trends: Entrepreneur](https://trends.google.com/trends/explore?date=all&q=entrepreneur), created by [sklearn.ensemble.RandomForestRegressor](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html)*
 
-Figure No.3 is the Random Tree Regression of the google trend search data for "Entrepreneur." This is a supervised learning alogrithm that uses an ensemble learning method to determine the strength and character of the relationship between two variables.
+Figure No.3 is the Random Tree Regression of the google trend search data for "Entrepreneur." This is a supervised learning alogrithm that uses an ensemble learning method to determine the strength and character of the relationship between two variables. The green is the actual data whereas the blue is the predicted data, meaning that the search volume for "Entrepreneur" is expected to shrink quite a bit.
 
 **Figure No.4 Causal Inference**
 
@@ -83,7 +83,7 @@ Figure No.3 is the Random Tree Regression of the google trend search data for "E
 
 *Figure No.4 created by [Whimsical](https://whimsical.com/)*
 
-It is predicted that the causal inference algorithm will reveal a disparity in the search volume for "entrepreneur" before and after financial crises, mainly the 2008 stock market crash and the COVID-19 pandemic.
+It is predicted that the causal inference algorithm will reveal a disparity in the search volume for "entrepreneur" before and after financial crises, mainly the 2008 stock market crash and the COVID-19 pandemic. This study's hypothesized that although there will be a disparity before and after both the 2008 stock market crash and the COVID-19 pandemic, the latter will be significantly greater. Furthemore, it was thought that despite these disparities, all linear regressions would have positive slopes.
 
 
 **Figure No.5 Annual % of World GDP Growth**
@@ -104,7 +104,7 @@ Here, the google search volume for the term "Entrepreneur" can be observed from 
 
 <img src="https://github.com/Rising-Stars-by-Sunshine/stats201-final-Ava/blob/77da9e0c365f502d983b3e5666bd050d2a381938/spotlight/figures/causal_inference.png" width='500'>
 
-In this graph a linear regression line has been fitted to the google search volume of "Entrepreneur' before the 2008 stock market crash, after, and after the declaration fo the 2020 global recession. Before the 2008 crash, the linear regression shows a downward trend in searches for "Entrepreneur" but a huge jump in searches occurs once the crash occurs. After 2008, the search volume plateaus but is still significantly greater than before the crash. There is little difference in search volume immediately after the world recession is declared in February of 2020 but the following months show an upward trend as a huge spike occurs in October of 2021.
+In this graph a linear regression line has been fitted to the google search volume of "Entrepreneur' before the 2008 stock market crash, after, and after the declaration fo the 2020 global recession. Before the 2008 crash, the linear regression shows a downward trend in searches for "Entrepreneur" but a huge jump in searches occurs once the crash occurs. After 2008, the search volume plateaus but is still significantly greater than before the crash. There is little difference in search volume immediately after the world recession is declared in February of 2020 but the following months show an upward trend as a huge spike occurs in October of 2021. Contrarily to the hypothesis, there is little-to-none disparity in search volume immediately after February 2020, but rather a dramatic change in slope. Conversely, there is a large jump in search volume before and after the 2008 stock market crash, and the linear regression lines' slopes also changed from negative to a plataeu.
 
 ## More About the Author
 
@@ -119,8 +119,11 @@ In this graph a linear regression line has been fitted to the google search volu
 
 ### Data Source
 [Google Trends: "Entrepreneur"](https://trends.google.com/trends/explore?date=all&q=Entrepreneur)
+
 ### Code Source
 [stats201-tutorial-prediction/code](https://github.com/Rising-Stars-by-Sunshine/stats201-tutorial-prediction/tree/main/code)
+
+Pandey, Shekhar. “NumPy Polyfit.” Linuxhint, 2021, linuxhint.com/numpy-polyfit/. Accessed 8 Mar. 2023.
 
 ### Articles
 
