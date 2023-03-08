@@ -85,16 +85,26 @@ Figure No.3 is the Random Tree Regression of the google trend search data for "E
 
 It is predicted that the causal inference algorithm will reveal a disparity in the search volume for "entrepreneur" before and after financial crises, mainly the 2008 stock market crash and the COVID-19 pandemic.
 
+
 **Figure No.5 Annual % of World GDP Growth**
 
-<img src="https://data.worldbank.org/share/widget?end=2021&indicators=NY.GDP.MKTP.KD.ZG&name_desc=false&start=2004" width='450' height='300'>
+<img src="https://github.com/Rising-Stars-by-Sunshine/stats201-final-Ava/blob/0bb218ade90eb6291957504fa1c51bd853e58c00/spotlight/figures/gdp_growth.png" width='450' height='300'>
+
+Here the annual world GDP is displayed from 2004 to 2021. Two large dips can be observed in 2009 and 2020, respectively. These correlate to the 2008 stock market crash and the COVID-19 pandemic. Due to the pandemic, a recession was declared in most countries in February 2020 which would explain the second dip. The stock market crash occured late in the year of 2008, which caused 2009 to be so low.
 
 
 **Figure No.6 Monthly Google Search Volume for "Entrepreneur"**
 
-<script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/3261_RC06/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"entrepreneur","geo":"","time":"2004-01-01 2023-03-07"}],"category":0,"property":""}, {"exploreQuery":"date=all&q=entrepreneur","guestPath":"https://trends.google.com:443/trends/embed/"}); </script>
+<img src="https://github.com/Rising-Stars-by-Sunshine/stats201-final-Ava/blob/0bb218ade90eb6291957504fa1c51bd853e58c00/spotlight/figures/search_trend.png">
+
+Here, the google search volume for the term "Entrepreneur" can be observed from 2004 to early 2023. In December 2008, an upward trend begins which only seems to steady itself in December of 2010. Contrarily, in late 2021 a massive spike occurs only to result in a spiky downward trend. These events line up, with slight delay, with the 2008 stock market crash and the start of the 2020 recession, which was a by product of the COVID-19 pandemic.
+
 
 **Figure No.7 Linear Regression of Data**
+
+<img src="https://github.com/Rising-Stars-by-Sunshine/stats201-final-Ava/blob/77da9e0c365f502d983b3e5666bd050d2a381938/spotlight/figures/causal_inference.png">
+
+In this graph a linear regression line has been fitted to the google search volume of "Entrepreneur' before the 2008 stock market crash, after, and after the declaration fo the 2020 global recession. Before the 2008 crash, the linear regression shows a downward trend in searches for "Entrepreneur" but a huge jump in searches occurs once the crash occurs. After 2008, the search volume plateaus but is still significantly greater than before the crash. There is little difference in search volume immediately after the world recession is declared in February of 2020 but the following months show an upward trend as a huge spike occurs in October of 2021.
 
 ## More About the Author
 
