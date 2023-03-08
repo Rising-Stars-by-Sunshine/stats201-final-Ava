@@ -21,7 +21,7 @@
 | Type  | Link | Data Files | Data Content |
 | ---- | ---- | ---- | ----- |
 | Data Source  | https://trends.google.com/trends/explore?date=all&q=Entrepreneur  | https://github.com/Rising-Stars-by-Sunshine/stats201-final-Ava/tree/main/data/Queried_Data/interestOverTime.csv | A table including the score of searches for "Entrepreneur" and their corresponding Year/Month. |
-| Queried Data  | https://github.com/Rising-Stars-by-Sunshine/stats201-final-Ava/tree/main/data/Queried_Data  | interestOverTime.csv, references.csv | interestOverTime.csv is the Data Source (refer to above row) and references contains the bibliographic information for 21 journal articles, books, and book chapters discussing recent trends in entrepreneurship and post-pandemic spikes in entrepreneurship. |
+| Queried Data  | https://github.com/Rising-Stars-by-Sunshine/stats201-final-Ava/tree/main/data/Queried_Data  | interestOverTime.csv, references.csv | interestOverTime.csv is the Data Source (refer to above row) and interestOverTime_March2023.csv is the same file with an additional row for March 2023. references.csv contains the bibliographic information for 21 journal articles, books, and book chapters discussing recent trends in entrepreneurship and post-pandemic spikes in entrepreneurship. |
 | Processed Data  | https://github.com/Rising-Stars-by-Sunshine/stats201-final-Ava/tree/main/data/Processed_Data  | Regression_Train.csv, Regression_Test.csv, Classification_Train.csv, Classification_Test.csv | 
 
 #### Data Dictionary
@@ -49,6 +49,7 @@
 | Process Data  | https://github.com/Rising-Stars-by-Sunshine/stats201-final-Ava/tree/main/code/Process_Data.ipynb  |
 | Analyze Data  | https://github.com/Rising-Stars-by-Sunshine/stats201-final-Ava/tree/main/code/Analyze_Data.ipynb  |
 | Machine Learning for Explanation  | https://github.com/Rising-Stars-by-Sunshine/stats201-final-Ava/tree/main/code/MachineLearningforExplanation.ipynb  |
+| Causal Inference  | https://github.com/Rising-Stars-by-Sunshine/stats201-final-Ava/tree/main/code/causal_inference.ipynb  |
 
 ### Spotlight
 
@@ -92,6 +93,8 @@ It is predicted that the causal inference algorithm will reveal a disparity in t
 **Figure No.6 Monthly Google Search Volume for "Entrepreneur"**
 
 <script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/3261_RC06/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"entrepreneur","geo":"","time":"2004-01-01 2023-03-07"}],"category":0,"property":""}, {"exploreQuery":"date=all&q=entrepreneur","guestPath":"https://trends.google.com:443/trends/embed/"}); </script>
+
+**Figure No.7 Linear Regression of Data**
 
 ## More About the Author
 
@@ -152,3 +155,5 @@ Kang, Pengsheng, Lin, Guo, Zhou, Lu, and Lili, Zhu. "Evaluation of the early-sta
 “The Great Recession and the Jobs Crisis.” 2011. https://www.un.org/esa/socdev/rwss/docs/2011/chapter2.pdf.
 
 United Nations. 2011. “The Global Social Crisis.” New York: United Nations. https://www.un.org/esa/socdev/rwss/docs/2011/rwss2011.pdf.
+
+World Bank national accounts data, and OECD National Accounts data files.
