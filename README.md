@@ -108,7 +108,7 @@ Here, the google search volume for the term "Entrepreneur" can be observed from 
 
 <img src="https://github.com/Rising-Stars-by-Sunshine/stats201-final-Ava/blob/77da9e0c365f502d983b3e5666bd050d2a381938/spotlight/figures/causal_inference.png" width='500'>
 
-*Figure No.7 created with [Google Colab](https://colab.research.google.com/)*
+*Figure No.7 created with [Google Colab](https://colab.research.google.com/) and [numpy.polyfit](https://numpy.org/doc/stable/reference/generated/numpy.polyfit.html)*
 
 In this graph a linear regression line has been fitted to the google search volume of "Entrepreneur' before the 2008 stock market crash, after, and after the declaration fo the 2020 global recession. Before the 2008 crash, the linear regression shows a downward trend in searches for "Entrepreneur" but a huge jump in searches occurs once the crash occurs. After 2008, the search volume plateaus but is still significantly greater than before the crash. There is little difference in search volume immediately after the world recession is declared in February of 2020 but the following months show an upward trend as a huge spike occurs in October of 2021. Contrarily to the hypothesis, there is little-to-none disparity in search volume immediately after February 2020, but rather a dramatic change in slope. Conversely, there is a large jump in search volume before and after the 2008 stock market crash, and the linear regression lines' slopes also changed from negative to a plataeu.
 
