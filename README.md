@@ -21,7 +21,7 @@
 | Type  | Link | Data Files | Data Content |
 | ---- | ---- | ---- | ----- |
 | Data Source  | https://trends.google.com/trends/explore?date=all&q=Entrepreneur  | https://github.com/Rising-Stars-by-Sunshine/stats201-final-Ava/tree/main/data/Queried_Data/interestOverTime.csv | A table including the score of searches for "Entrepreneur" and their corresponding Year/Month. |
-| Queried Data  | https://github.com/Rising-Stars-by-Sunshine/stats201-final-Ava/tree/main/data/Queried_Data  | interestOverTime.csv, references.csv | interestOverTime.csv is the Data Source (refer to above row) and interestOverTime_March2023.csv is the same file with an additional row for March 2023. references.csv contains the bibliographic information for 21 journal articles, books, and book chapters discussing recent trends in entrepreneurship and post-pandemic spikes in entrepreneurship. |
+| Queried Data  | https://github.com/Rising-Stars-by-Sunshine/stats201-final-Ava/tree/main/data/Queried_Data  | interestOverTime.csv, interestOverTime_March2023.csv, references.csv | interestOverTime.csv is the Data Source (refer to above row) and interestOverTime_March2023.csv is the same file with an additional row for March 2023. references.csv contains the bibliographic information for 21 journal articles, books, and book chapters discussing recent trends in entrepreneurship and post-pandemic spikes in entrepreneurship. |
 | Processed Data  | https://github.com/Rising-Stars-by-Sunshine/stats201-final-Ava/tree/main/data/Processed_Data  | Regression_Train.csv, Regression_Test.csv, Classification_Train.csv, Classification_Test.csv | 
 
 #### Data Dictionary
