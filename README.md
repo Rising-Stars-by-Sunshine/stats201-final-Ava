@@ -87,7 +87,7 @@ It is predicted that the causal inference algorithm will reveal a disparity in t
 
 **Figure No.5 Annual % of World GDP Growth**
 
-<iframe src="https://data.worldbank.org/share/widget?end=2021&indicators=NY.GDP.MKTP.KD.ZG&name_desc=false&start=2004" width='450' height='300' frameBorder='0' scrolling="no" ></iframe>
+<img src="https://data.worldbank.org/share/widget?end=2021&indicators=NY.GDP.MKTP.KD.ZG&name_desc=false&start=2004" width='450' height='300'>
 
 
 **Figure No.6 Monthly Google Search Volume for "Entrepreneur"**
