@@ -59,7 +59,7 @@
 
 **Figure No.1 Project Poster**
 
-<img src="https://github.com/Rising-Stars-by-Sunshine/stats201-final-Ava/blob/363afe427bd01c754e2056549239a11cde4116d2/spotlight/figures/poster.jpg>
+<img src="https://github.com/Rising-Stars-by-Sunshine/stats201-final-Ava/blob/363afe427bd01c754e2056549239a11cde4116d2/spotlight/figures/poster.jpg">
 
 *Figure No.1 created by [Google Slides](https://docs.google.com/presentation/u/0/)*
 
