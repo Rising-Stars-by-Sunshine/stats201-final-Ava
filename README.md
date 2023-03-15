@@ -1,4 +1,4 @@
-# Machine Learning for Time Series Prediction: Volume of Google Searches on "Entrepreneur"
+# Causal Inference for The Relationship Between Financial Crisis and Interest in Entrepreneurship
 ## Project information
 - **Author**: Ava Baker, Computation and Design (Computer Science), Class of 2025, Duke Kunshan University
 - **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
